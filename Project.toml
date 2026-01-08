@@ -1,0 +1,8 @@
+[deps]
+CoherentNoise = "3547b4d8-3bdb-4c10-a099-d01a31e852e0"
+FastTransforms = "057dd010-8810-581a-b7be-e3fc3b93f78c"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+MeshGrid = "ebf956a0-ef5e-43be-9fb1-27952996e635"
+Noise = "81d43f40-5267-43b7-ae1c-8b967f377efa"
